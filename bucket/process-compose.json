@@ -1,12 +1,12 @@
 {
-    "version": "1.116.0",
+    "version": "1.120.0",
     "description": "Process orchestrator for development workflows",
     "homepage": "https://github.com/F1bonacc1/process-compose",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.116.0/process-compose_windows_amd64.zip",
-            "hash": "3fc9c330bc14249811a613c22651af6a67a5aff7e022810c7815d1049bc6a7a4"
+            "url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.120.0/process-compose_windows_amd64.zip",
+            "hash": "69099fb6ddd65e03a6a1b4c53ce887d2d04b3e601fe1ebb5b8d6f40e2d010634"
         }
     },
     "bin": "process-compose.exe",
